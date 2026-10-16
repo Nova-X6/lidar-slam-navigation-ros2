@@ -1,0 +1,14 @@
+build/
+install/
+log/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.db3
+*.mcap
+*.zip
+*.tar.gz
+.env
