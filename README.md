@@ -1,5 +1,7 @@
 # LiDAR Mapping and Autonomous Navigation
 
+Project completed at Politecnico di Milano in May 2026.
+
 A ROS 2 academic robotics project combining LiDAR preprocessing, 2D SLAM, and simulated autonomous waypoint navigation for an AgileX Scout Mini omnidirectional robot.
 
 ## Features
